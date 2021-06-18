@@ -19,7 +19,7 @@ UI Design Calculator with neumorphism and glassmorphism effects which can perfor
 
 ### What I learned
 
-I learned how to use CSS Grid as well as how to apply neumorphism and glassmorphism effects which are very trendy at the moment and make your design look mesmerizing.
+I learned how to use CSS Grid as well as how to apply neumorphism and glassmorphism effects which are very trendy at the moment and make our design look mesmerizing.
 
 ## Author
 
