@@ -1,18 +1,13 @@
-# UI Design Calculator with Neumorphism and Glassmorphism Effect
-![UI Design Calculator with Neumorphism and Glassmorphism Effect](./Screenshot 2021-06-19 045032.png)
+# UI Design Calculator
+![UI Design Calculator](https://user-images.githubusercontent.com/79203678/122623838-4af58c00-d0bb-11eb-994a-74bb1e44360d.png)
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+UI Design Calculator with neumorphism and glassmorphism effects which can perform basic arithmetic operations like addition, subtraction, multiplication, division and modulus.
 
 ### Links
 
-- Live Site URL: [Click Here to visit the website](https://insurepagewebsite.netlify.app//)
+- Live Site URL: [Click Here to visit the website](https://ui-design-calculator.netlify.app/)
 
 ## My process
 
@@ -20,11 +15,11 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- CSS Grid
 
 ### What I learned
 
-I learned how to use flex-box effectively in a website which can make life easy for a developer.
+I learned how to use CSS Grid as well as how to apply neumorphism and glassmorphism effects which are very trendy at the moment and make your design look mesmerizing.
 
 ## Author
 
